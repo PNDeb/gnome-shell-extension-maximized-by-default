@@ -1,0 +1,5 @@
+gnome-shell-extension-maximized-by-default (1.2.0+pn-1) UNRELEASED; urgency=medium
+
+  * Initial release. Basically only a Debian packaging of https://github.com/aXe1/gnome-shell-extension-maximized-by-default
+
+ -- Maximilian Weigand <Maximilian Weigand (PineNote Signing Key 3) <mweigand@mweigand.net>>  Mon, 26 Feb 2024 20:38:30 +0100
