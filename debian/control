@@ -1,0 +1,18 @@
+Source: gnome-shell-extension-maximized-by-default
+Section: unknown
+Priority: optional
+Maintainer: Maximilian Weigand <Maximilian Weigand (PineNote Signing Key 3) <mweigand@mweigand.net>>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: https://github.com/PNDeb/gnome-shell-extension-maximized-by-default
+#Vcs-Browser: https://salsa.debian.org/debian/gnome-shell-extension-maximized-by-default
+#Vcs-Git: https://salsa.debian.org/debian/gnome-shell-extension-maximized-by-default.git
+
+Package: gnome-shell-extension-maximized-by-default
+Architecture: all
+Depends:
+ ${misc:Depends},
+Description: GNOME Shell extension that maximizes all windows on app start.
+ <Insert long description, indented with spaces.>
