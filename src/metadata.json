@@ -1,10 +1,11 @@
 {
   "name": "Maximized by default",
-  "version": "1.3.0+pn",
+  "version": "1.3.1+pn",
   "description": "Make all windows maximized on start.",
   "url": "https://github.com/PNDeb/gnome-shell-extension-maximized-by-default",
   "uuid": "gnome-shell-extension-maximized-by-default@m-weigand.github.com",
   "shell-version": [
-	  "46"
+	  "46",
+	  "47"
   ]
 }
